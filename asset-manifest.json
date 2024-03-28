@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/UKCC-Frontend/static/css/main.a0e79f42.css",
-    "main.js": "/UKCC-Frontend/static/js/main.b3c20eb1.js",
+    "main.js": "/UKCC-Frontend/static/js/main.033a923e.js",
     "static/js/787.2ee175e7.chunk.js": "/UKCC-Frontend/static/js/787.2ee175e7.chunk.js",
     "index.html": "/UKCC-Frontend/index.html",
     "main.a0e79f42.css.map": "/UKCC-Frontend/static/css/main.a0e79f42.css.map",
-    "main.b3c20eb1.js.map": "/UKCC-Frontend/static/js/main.b3c20eb1.js.map",
+    "main.033a923e.js.map": "/UKCC-Frontend/static/js/main.033a923e.js.map",
     "787.2ee175e7.chunk.js.map": "/UKCC-Frontend/static/js/787.2ee175e7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a0e79f42.css",
-    "static/js/main.b3c20eb1.js"
+    "static/js/main.033a923e.js"
   ]
 }
