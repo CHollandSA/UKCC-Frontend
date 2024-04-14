@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.32218cd4.css",
-    "main.js": "/static/js/main.b088b0e9.js",
-    "static/js/787.d07c2cb6.chunk.js": "/static/js/787.d07c2cb6.chunk.js",
-    "index.html": "/index.html",
-    "main.32218cd4.css.map": "/static/css/main.32218cd4.css.map",
-    "main.b088b0e9.js.map": "/static/js/main.b088b0e9.js.map",
-    "787.d07c2cb6.chunk.js.map": "/static/js/787.d07c2cb6.chunk.js.map"
+    "main.css": "/UKCC-Frontend/static/css/main.32218cd4.css",
+    "main.js": "/UKCC-Frontend/static/js/main.7c00ad3d.js",
+    "static/js/787.d07c2cb6.chunk.js": "/UKCC-Frontend/static/js/787.d07c2cb6.chunk.js",
+    "index.html": "/UKCC-Frontend/index.html",
+    "main.32218cd4.css.map": "/UKCC-Frontend/static/css/main.32218cd4.css.map",
+    "main.7c00ad3d.js.map": "/UKCC-Frontend/static/js/main.7c00ad3d.js.map",
+    "787.d07c2cb6.chunk.js.map": "/UKCC-Frontend/static/js/787.d07c2cb6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.32218cd4.css",
-    "static/js/main.b088b0e9.js"
+    "static/js/main.7c00ad3d.js"
   ]
 }
